@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm zfeng296
+* 📍 Chong Qing
+* 🦸‍♂️ Become a DevOps engineer
 
 <!--
 **zfeng296/zfeng296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
